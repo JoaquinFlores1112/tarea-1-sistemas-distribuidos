@@ -18,6 +18,7 @@ Además de su función operativa, el sistema actúa como un banco de pruebas exp
 
 - Docker y Docker Compose instalados.
 - Puerto `5000` (Flask) y `6379` (Redis) disponibles en la máquina host.
+- Tener el archivo open_buildings_v3_points_ne_110m_CHL.csv
 
 ## 🛠️ Instrucciones de Ejecución
 
